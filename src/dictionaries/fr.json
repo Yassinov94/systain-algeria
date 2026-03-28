@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "title": "Systain Algeria – Conseil Climat, Carbone & ESG",
+    "description": "Conseil stratégique pour les organisations en transition vers une économie bas-carbone, transparente et durable."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Tableau de bord",
+    "logout": "Déconnexion",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Systain Advisory",
+    "subtitle": "Climat, Carbone, ESG, Économie Circulaire, Chaînes d'Approvisionnement Durables",
+    "cta_contact": "Contact",
+    "cta_footprint": "Calculez votre empreinte"
+  },
+  "carbon_cta": {
+    "title": "Évaluez votre empreinte carbone",
+    "description": "Et découvrez des solutions concrètes pour les réduire. Un premier pas vers un avenir plus durable.",
+    "button": "Commencer mon évaluation"
+  },
+  "intro": {
+    "text": "Conseil stratégique pour les organisations en transition vers une économie bas-carbone, transparente et durable.",
+    "description": "Systain Advisory accompagne les entreprises, les institutions financières et les acteurs publics dans la gestion de la performance carbone, les stratégies ESG, la conformité réglementaire et les chaînes d'approvisionnement durables. Opérant en Europe et en Afrique du Nord, nous combinons des cadres internationaux de durabilité avec une forte expertise locale.",
+    "standards": "Solutions conformes aux normes internationales",
+    "cta": "Prendre rendez-vous"
+  },
+  "what_we_do": {
+    "title": "Ce que nous faisons",
+    "subtitle": "Chez Systain Advisory, nous aidons les organisations à comprendre, mesurer et améliorer leur performance environnementale et de durabilité.",
+    "pillars_intro": "Notre travail se concentre sur cinq piliers stratégiques.",
+    "carbon": {
+      "title": "Performance Carbone",
+      "description": "Nous accompagnons les entreprises dans la mesure et la gestion des émissions de gaz à effet de serre dans l'ensemble de leurs opérations et chaînes de valeur.",
+      "services": ["Bilan Carbone d'Entreprise (Scope 1, 2 et 3)", "Empreinte Carbone Produit", "Systèmes de comptabilité carbone", "Feuilles de route de réduction des émissions"],
+      "standards_intro": "Nos travaux suivent les normes internationalement reconnues :",
+      "standards": ["GHG Protocol", "ISO 14064"]
+    },
+    "esg": {
+      "title": "Stratégie ESG & Reporting de Durabilité",
+      "description": "La performance Environnementale, Sociale et de Gouvernance (ESG) devient un élément central de la stratégie d'entreprise et des décisions d'investissement. Systain Advisory accompagne les organisations dans le développement et la mise en œuvre de stratégies ESG alignées sur les cadres de reporting internationaux.",
+      "services": ["Développement de stratégie ESG", "Analyses de matérialité", "Cadres de reporting de durabilité", "Processus d'engagement des parties prenantes", "Intégration de l'ESG dans la gouvernance d'entreprise"]
+    },
+    "climate": {
+      "title": "Stratégie Climat & Décarbonation",
+      "description": "Nous accompagnons les organisations dans la définition de stratégies climatiques à long terme alignées sur les objectifs climatiques mondiaux.",
+      "services": ["Alignement Science Based Targets initiative (SBTi)", "Stratégies de décarbonation d'entreprise", "Plans de transition climatique", "Trajectoires net-zéro"],
+      "outro": "Ces stratégies aident les entreprises à renforcer leur compétitivité à long terme dans une économie bas-carbone."
+    },
+    "regulation": {
+      "title": "Réglementation Climatique & Conformité",
+      "description": "La réglementation climatique influence de plus en plus le commerce international et l'accès aux marchés mondiaux. Nos services de conseil aident les entreprises à anticiper les évolutions réglementaires et à intégrer la conformité dans leur planification stratégique.",
+      "services": ["Mécanisme d'Ajustement Carbone aux Frontières (CBAM)", "Directive sur le Reporting de Durabilité des Entreprises (CSRD)", "Taxonomie UE", "Normes de reporting ESRS"]
+    },
+    "supply_chain": {
+      "title": "Chaînes d'Approvisionnement Durables",
+      "description": "La durabilité et la transparence des chaînes d'approvisionnement mondiales deviennent des exigences critiques pour les entreprises opérant à l'international.",
+      "services": ["Analyse des émissions Scope 3", "Évaluations de durabilité des fournisseurs", "Cadres d'approvisionnement durable", "Analyse des risques climatiques dans la chaîne d'approvisionnement", "Programmes d'engagement des fournisseurs"]
+    },
+    "circular": {
+      "title": "Économie Circulaire & Gestion des Ressources",
+      "description": "Nous accompagnons les organisations dans leur transition de modèles de production linéaires vers des stratégies de ressources circulaires.",
+      "services": ["Analyse du Cycle de Vie (ISO 14040/44)", "Analyse des flux de matériaux", "Chaînes de valeur circulaires", "Stratégies d'efficacité des ressources"]
+    }
+  },
+  "transition": {
+    "title": "Transition UE-Afrique",
+    "subtitle": "Transformation Climatique et Économique",
+    "description": "La transition vers une économie mondiale bas-carbone remodèle les relations commerciales et la compétitivité industrielle. La réglementation climatique européenne affecte de plus en plus les entreprises opérant dans les régions voisines. Systain Advisory accompagne les organisations dans ce paysage en évolution en faisant le pont entre la réglementation européenne de durabilité et la transformation économique africaine.",
+    "areas": ["Mise en œuvre du CBAM et préparation à l'exportation", "Stratégies de décarbonation industrielle", "Intégration ESG dans les marchés émergents", "Chaînes d'approvisionnement durables entre l'Europe et l'Afrique", "Finance climatique et programmes de coopération internationale"]
+  },
+  "services": {
+    "title": "Nos Services",
+    "items": [
+      {
+        "title": "Comptabilité Carbone",
+        "items": ["Bilan Carbone d'Entreprise (Scope 1, 2, 3)", "Empreinte Carbone Produit", "Systèmes de données carbone", "Cadres de suivi des émissions"]
+      },
+      {
+        "title": "Stratégies de Décarbonation",
+        "items": ["Alignement Science Based Targets initiative (SBTi)", "Stratégies net-zéro", "Feuilles de route de réduction des émissions", "Planification de transition climatique"]
+      },
+      {
+        "title": "Stratégie ESG & Reporting",
+        "items": ["Développement de stratégies ESG", "Analyse de matérialité", "Reporting de durabilité", "Cadres d'engagement des parties prenantes", "Intégration de l'ESG dans la gouvernance d'entreprise"]
+      },
+      {
+        "title": "Conseil CSRD",
+        "items": ["Analyse d'écart pour la CSRD", "Mise en œuvre des normes de reporting ESRS", "Cadres de collecte de données", "Préparation des rapports de durabilité"]
+      },
+      {
+        "title": "Conseil en Réglementation Climatique",
+        "items": ["Mise en œuvre du CBAM", "Alignement Taxonomie UE", "Cadres de divulgation climatique", "Analyse des risques réglementaires"]
+      },
+      {
+        "title": "Gestion Durable de la Chaîne d'Approvisionnement",
+        "items": ["Cartographie des émissions Scope 3", "Programmes de durabilité des fournisseurs", "Diligence raisonnable de la chaîne d'approvisionnement", "Analyse des risques climatiques dans les chaînes de valeur"]
+      },
+      {
+        "title": "Économie Circulaire & Stratégie des Ressources",
+        "items": ["Analyse du Cycle de Vie", "Analyse des flux de matériaux", "Modèles d'affaires circulaires", "Stratégies d'optimisation des ressources"]
+      },
+      {
+        "title": "Finance Climatique & Innovation",
+        "items": ["Stratégies d'investissement climatique", "Accès aux programmes de financement internationaux", "Partenariats d'innovation", "Cadres de finance durable"]
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Notre Approche de Conseil",
+    "phases": [
+      {
+        "title": "Diagnostic",
+        "description": "Évaluation de la performance environnementale et ESG actuelle.",
+        "items": ["Analyse de l'empreinte carbone", "Cartographie de la chaîne d'approvisionnement", "Analyse d'écart ESG", "Évaluation des risques réglementaires"]
+      },
+      {
+        "title": "Analyse",
+        "description": "Évaluation détaillée des sources d'émissions, des processus opérationnels et des chaînes de valeur.",
+        "items": ["Identification des points chauds d'émissions", "Modélisation de scénarios", "Analyse des risques climatiques", "Évaluation de matérialité"]
+      },
+      {
+        "title": "Développement Stratégique",
+        "description": "Développement de stratégies de durabilité alignées sur les cadres internationaux.",
+        "items": ["Trajectoires de décarbonation", "Alignement SBTi", "Développement de stratégie ESG", "Stratégies d'engagement de la chaîne d'approvisionnement"]
+      },
+      {
+        "title": "Accompagnement à la Mise en Œuvre",
+        "description": "Accompagnement des organisations dans la mise en œuvre de leurs stratégies de durabilité.",
+        "items": ["Systèmes de suivi", "Cadres de reporting", "Outils de gestion de la performance"]
+      }
+    ]
+  },
+  "financing": {
+    "title": "Accompagnement à la mobilisation de financements pour des projets durables",
+    "intro": "Systain accompagne les entreprises, les institutions publiques et les porteurs de projets dans l'identification, la demande et la gestion de financements pour leurs initiatives en faveur du développement durable. Nous intervenons de manière ciblée et stratégique, de l'idée initiale jusqu'à la mise en œuvre concrète.",
+    "what_we_offer": "Ce que nous proposons :",
+    "offer_items": ["Recherche de programmes de financement adaptés (locaux et internationaux)", "Conseil stratégique et structuration de projets selon les critères d'éligibilité", "Rédaction et accompagnement dans le dépôt des dossiers de demande", "Interface avec les organismes financeurs", "Appui au suivi, à la justification des dépenses et au reporting pendant toute la durée du projet"],
+    "for_whom": "Pour qui ?",
+    "for_items": ["Entreprises de toutes tailles", "Collectivités et établissements publics", "Start-ups engagées dans l'innovation durable", "Projets en coopération internationale avec un impact en Algérie"],
+    "value_title": "La valeur ajoutée de Systain :",
+    "value_text": "Grâce à notre expertise, notre connaissance des mécanismes de financement et notre approche stratégique, nous transformons des idées en projets concrets et finançables. Nous facilitons l'accès aux fonds pour accélérer la transition vers un avenir durable."
+  },
+  "partners": {
+    "title": "Nos Partenaires",
+    "description": "Systain Advisory collabore avec un réseau de partenaires spécialisés comprenant :",
+    "partner_types": ["Experts techniques", "Institutions de recherche", "Cabinets d'ingénierie", "Organismes de vérification", "Organisations d'innovation"],
+    "expertise_intro": "Ces partenariats nous permettent de combiner conseil stratégique et expertise technique dans des domaines tels que :",
+    "expertise_areas": ["Comptabilité carbone", "Analyse du cycle de vie", "Ingénierie industrielle", "Finance climatique", "Reporting ESG"]
+  },
+  "references": {
+    "title": "Références",
+    "subtitle": "Ils ont choisi l'expertise pour réduire leur empreinte carbone",
+    "description": "Projets sélectionnés :",
+    "projects": ["Bilans carbone d'entreprise pour des sociétés industrielles", "Stratégies de décarbonation pour des organisations pharmaceutiques", "Stratégies ESG pour des institutions financières", "Programmes de durabilité de la chaîne d'approvisionnement pour des industries orientées vers l'exportation"],
+    "note": "Des études de cas détaillées peuvent être fournies sur demande."
+  },
+  "cta": {
+    "title": "Un premier échange pour identifier vos besoins ?",
+    "subtitle": "Un projet en cours de structuration ? Notre équipe est à votre disposition.",
+    "phone": "+213(0) 660 685 372",
+    "button": "Prendre rendez-vous"
+  },
+  "about": {
+    "title": "À propos de Systain Advisory",
+    "intro": "Systain Advisory est un cabinet international de conseil en climat et durabilité qui accompagne les organisations dans leur transition vers une économie bas-carbone et efficace en ressources. Notre expertise combine comptabilité carbone, stratégie ESG, trajectoires de décarbonation, chaînes d'approvisionnement durables et conseil réglementaire. Nous accompagnons des entreprises dans de multiples secteurs dont l'industrie, l'agroalimentaire, la pharmacie, la finance et les infrastructures.",
+    "frameworks_intro": "Nos travaux s'alignent sur des cadres internationalement reconnus :",
+    "frameworks": ["GHG Protocol", "ISO 14064", "Science Based Targets initiative (SBTi)", "Directive sur le Reporting de Durabilité des Entreprises (CSRD)", "Mécanisme d'Ajustement Carbone aux Frontières de l'UE (CBAM)", "Taskforce on Nature-related Financial Disclosures (TNFD)"],
+    "geo": "Avec des opérations en Europe et en Afrique du Nord, Systain Advisory opère à l'intersection de la réglementation climatique internationale et de la transformation économique dans les marchés émergents.",
+    "founder_message": {
+      "p1": "Le changement climatique devient l'un des défis économiques déterminants de notre époque.",
+      "p2": "La performance carbone, la transparence ESG et la conformité réglementaire déterminent de plus en plus l'accès au marché, la compétitivité et les décisions d'investissement.",
+      "p3": "Chez Systain Advisory, nous accompagnons les organisations dans cette transition avec rigueur scientifique, clarté stratégique et une compréhension approfondie des dynamiques économiques internationales.",
+      "name": "Sarah Ruschkowski",
+      "role": "Fondatrice & Directrice Générale"
+    },
+    "values_title": "Nos Valeurs",
+    "values": [
+      {
+        "title": "Responsabilité",
+        "description": "Nous agissons avec une conscience écologique, sociale et économique. Chaque décision vise à réduire les impacts négatifs et à créer de la valeur positive pour l'environnement et la société."
+      },
+      {
+        "title": "Intégrité",
+        "description": "Nous plaçons la transparence, l'éthique et l'honnêteté au cœur de notre travail. Nos engagements sont clairs et nos relations sont fondées sur la confiance."
+      },
+      {
+        "title": "Innovation",
+        "description": "Nous croyons au pouvoir de l'innovation – mais toujours au service de la durabilité. Nous explorons des solutions créatives, adaptées au contexte local et fondées sur la rigueur scientifique."
+      },
+      {
+        "title": "Coopération",
+        "description": "Le changement ne se fait pas seul. Nous cultivons des partenariats solides avec les acteurs publics, privés et civils, en Algérie comme à l'international."
+      },
+      {
+        "title": "Ancrage Local",
+        "description": "Nous valorisons les talents, les ressources et l'expertise locaux. Notre ambition : contribuer au développement durable de l'Algérie, par et pour ses acteurs."
+      }
+    ],
+    "team_title": "Notre Équipe",
+    "team_text": "Chez Sarl Systain Algeria, nous réunissons une équipe passionnée d'experts en transition écologique et en gestion de l'empreinte carbone. Forts de notre expertise, nous accompagnons les entreprises dans la réduction de leurs émissions et l'adoption de pratiques durables.",
+    "vision_title": "Notre Vision",
+    "vision_text": "Notre mission est claire : réduire l'empreinte carbone des entreprises et les guider vers une transition écologique efficace et durable. Nous sommes convaincus que la durabilité est un moteur de croissance et d'innovation. Ensemble, construisons un avenir plus vert et plus responsable."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Un premier échange pour identifier vos besoins ? Un projet en cours de structuration ? Notre équipe est à votre disposition.",
+    "call": "Appelez-nous",
+    "phone": "+213(0) 660 685 372",
+    "email_label": "Envoyez un email",
+    "email": "contact@systain-algeria.com",
+    "visit": "Rendez-nous visite",
+    "address": "Villa 18, Rue Said HADJAR, Saoula 16095",
+    "form_intro": "Entrez vos coordonnées pour que nous puissions vous recontacter.",
+    "form": {
+      "name": "Nom complet",
+      "company": "Entreprise",
+      "email": "Email",
+      "phone": "Téléphone",
+      "message": "Message",
+      "submit": "Envoyer le message"
+    }
+  },
+  "footer": {
+    "tagline": "Conseil stratégique face au changement climatique & économie circulaire",
+    "contact_title": "Contactez-nous",
+    "address": "Villa 18, Rue Said HADJAR, Saoula 16095",
+    "phone": "+213(0) 660 685 372",
+    "email": "contact@systain-algeria.com",
+    "hours_title": "Horaires d'ouverture",
+    "hours_days": "Samedi – Jeudi",
+    "hours_time": "09:00 – 17:00",
+    "newsletter_title": "Newsletter",
+    "newsletter_text": "Restez à jour avec nos actualités",
+    "newsletter_placeholder": "Votre email",
+    "newsletter_button": "S'inscrire",
+    "copyright": "© 2025 Systain Algeria. Tous droits réservés."
+  },
+  "auth": {
+    "login_title": "Connexion",
+    "login_subtitle": "Connectez-vous pour accéder au calculateur d'empreinte carbone",
+    "register_title": "Créer un compte",
+    "register_subtitle": "Créez votre compte pour calculer votre empreinte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "company_name": "Nom de l'entreprise",
+    "company_size": "Taille de l'entreprise",
+    "phone": "Téléphone",
+    "sector": "Secteur d'activité",
+    "remember_me": "Se souvenir de moi",
+    "forgot_password": "Mot de passe oublié ?",
+    "login_button": "Se connecter",
+    "register_button": "Créer le compte",
+    "no_account": "Pas encore de compte ?",
+    "has_account": "Vous avez déjà un compte ?",
+    "sign_up": "S'inscrire",
+    "sign_in": "Se connecter"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue",
+    "esg_reports": "Rapports ESG",
+    "create_report": "Créer un nouveau rapport",
+    "my_reports": "Mes rapports",
+    "no_reports": "Vous n'avez pas encore créé de rapport.",
+    "report_name": "Nom du rapport",
+    "report_type": "Type de rapport",
+    "report_types": {
+      "carbon_footprint": "Bilan Carbone",
+      "esg_strategy": "Rapport de Stratégie ESG",
+      "csrd_gap": "Analyse d'Écart CSRD",
+      "supply_chain": "Évaluation de la Chaîne d'Approvisionnement",
+      "circular_economy": "Analyse d'Économie Circulaire"
+    },
+    "company_description": "Décrivez votre entreprise et ses activités",
+    "generate": "Générer avec l'IA",
+    "generating": "Génération du rapport...",
+    "download": "Télécharger",
+    "delete": "Supprimer",
+    "created_at": "Créé le",
+    "status": "Statut",
+    "profile": "Profil",
+    "logout": "Déconnexion"
+  },
+  "blog": {
+    "title": "Blog & Presse",
+    "read_more": "Lire la suite",
+    "press": "Presse",
+    "articles": "Articles",
+    "published_in": "Publié dans",
+    "back_to_blog": "Retour au Blog"
+  }
+}

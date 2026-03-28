@@ -1,0 +1,168 @@
+export const blogPosts = [
+  {
+    slug: "carbon-performance-market-access",
+    category: "press",
+    date: "2026-03-25",
+    image: "/images/blog/carbon-performance.jpg",
+    publishedIn: "El Watan",
+    externalUrl: "https://elwatan.dz/sarah-ruschkowski-directrice-generale-de-systain-algeria-la-performance-carbone-devient-un-critere-determinant-pour-lacces-au-marche-europeen/",
+    title: {
+      en: "Carbon Performance as a Key Market Access Factor",
+      fr: "La performance carbone comme facteur clé d'accès au marché",
+      ar: "الأداء الكربوني كعامل رئيسي للوصول إلى السوق",
+    },
+    excerpt: {
+      en: "Carbon performance is becoming a decisive criterion for accessing the European market. This article highlights how mechanisms such as CBAM are reshaping global trade.",
+      fr: "La performance carbone devient un critère déterminant pour l'accès au marché européen. Cet article met en lumière comment des mécanismes tels que le CBAM refaçonnent le commerce mondial.",
+      ar: "أصبح الأداء الكربوني معياراً حاسماً للوصول إلى السوق الأوروبية. يسلط هذا المقال الضوء على كيفية إعادة تشكيل آليات مثل CBAM للتجارة العالمية.",
+    },
+  },
+  {
+    slug: "diversification-sustainable-advantage",
+    category: "press",
+    date: "2026-03-25",
+    image: "/images/blog/diversification.jpg",
+    publishedIn: "El Watan",
+    externalUrl: "https://elwatan.dz/sarah-ruschkowski-specialiste-en-economie-circulaire-lenjeu-est-de-transformer-la-diversification-en-un-avantage-economique-durable/",
+    title: {
+      en: "Turning Diversification into a Sustainable Economic Advantage",
+      fr: "Transformer la diversification en un avantage économique durable",
+      ar: "تحويل التنويع إلى ميزة اقتصادية مستدامة",
+    },
+    excerpt: {
+      en: "The strategic importance of circular economy models for Algeria. The key challenge lies in transforming economic diversification into a long-term, sustainable advantage.",
+      fr: "L'importance stratégique des modèles d'économie circulaire pour l'Algérie. Le défi principal réside dans la transformation de la diversification économique en un avantage durable.",
+      ar: "الأهمية الاستراتيجية لنماذج الاقتصاد الدائري في الجزائر. يكمن التحدي الرئيسي في تحويل التنويع الاقتصادي إلى ميزة مستدامة.",
+    },
+  },
+  {
+    slug: "ai-game-changer-real-estate",
+    category: "press",
+    date: "2026-03-25",
+    image: "/images/blog/ai-real-estate.jpg",
+    publishedIn: "gif im Fokus",
+    title: {
+      en: "AI as a Game-Changer in Real Estate",
+      fr: "L'IA comme révolution dans l'immobilier",
+      ar: "الذكاء الاصطناعي كمغير لقواعد اللعبة في العقارات",
+    },
+    excerpt: {
+      en: "Artificial intelligence is rapidly reshaping the real estate industry — from planning and valuation to asset and portfolio management.",
+      fr: "L'intelligence artificielle transforme rapidement le secteur immobilier — de la planification et l'évaluation à la gestion d'actifs et de portefeuilles.",
+      ar: "يعيد الذكاء الاصطناعي تشكيل قطاع العقارات بسرعة — من التخطيط والتقييم إلى إدارة الأصول والمحافظ.",
+    },
+  },
+  {
+    slug: "digital-twins-future-proof-real-estate",
+    category: "press",
+    date: "2026-03-25",
+    image: "/images/blog/digital-twins.jpg",
+    publishedIn: "Handelsblatt Journal",
+    title: {
+      en: "Digital Twins & AI — The Key to Future-Proof Real Estate",
+      fr: "Jumeaux numériques et IA — La clé d'un immobilier résilient",
+      ar: "التوائم الرقمية والذكاء الاصطناعي — مفتاح العقارات المستقبلية",
+    },
+    excerpt: {
+      en: "Digital twins and artificial intelligence enable data-driven decision-making, optimize energy and resource efficiency, and support the transition towards circular construction.",
+      fr: "Les jumeaux numériques et l'intelligence artificielle permettent des décisions basées sur les données, optimisent l'efficacité énergétique et soutiennent la transition vers la construction circulaire.",
+      ar: "تمكّن التوائم الرقمية والذكاء الاصطناعي من اتخاذ قرارات مبنية على البيانات وتحسين كفاءة الطاقة والموارد.",
+    },
+  },
+  {
+    slug: "economie-circulaire-resilience-algerie",
+    category: "blog",
+    date: "2025-09-02",
+    image: "/images/blog/economie-circulaire.jpg",
+    title: {
+      en: "Circular Economy: Key to Resilience in Algeria",
+      fr: "Économie circulaire : clé de la résilience en Algérie",
+      ar: "الاقتصاد الدائري: مفتاح المرونة في الجزائر",
+    },
+    excerpt: {
+      en: "A comprehensive look at how circular economy principles can transform Algeria's economic landscape and reduce import dependency.",
+      fr: "Un regard approfondi sur la façon dont les principes de l'économie circulaire peuvent transformer le paysage économique de l'Algérie et réduire la dépendance aux importations.",
+      ar: "نظرة شاملة على كيف يمكن لمبادئ الاقتصاد الدائري تحويل المشهد الاقتصادي في الجزائر.",
+    },
+  },
+  {
+    slug: "neutralite-carbone-bilan-co2",
+    category: "blog",
+    date: "2025-09-02",
+    image: "/images/blog/neutralite-carbone.jpg",
+    title: {
+      en: "Carbon Neutrality: Start with the CO2 Assessment",
+      fr: "Neutralité carbone : commencez par le bilan CO2",
+      ar: "حياد الكربون: ابدأ بتقييم ثاني أكسيد الكربون",
+    },
+    excerpt: {
+      en: "The decarbonisation chain starts with a thorough CO2 assessment. Understanding Scope 3 as the central element of any climate strategy.",
+      fr: "La chaîne de décarbonation commence par un bilan CO2 approfondi. Comprendre le Scope 3 comme élément central de toute stratégie climatique.",
+      ar: "تبدأ سلسلة إزالة الكربون بتقييم شامل لثاني أكسيد الكربون.",
+    },
+  },
+  {
+    slug: "co2-base-strategie-durable",
+    category: "blog",
+    date: "2025-06-17",
+    image: "/images/blog/co2-strategie.jpg",
+    title: {
+      en: "CO2 as the Foundation of Any Sustainable Strategy in Algeria",
+      fr: "Le CO2, base de toute stratégie durable en Algérie",
+      ar: "ثاني أكسيد الكربون، أساس أي استراتيجية مستدامة في الجزائر",
+    },
+    excerpt: {
+      en: "CO2 as a universal indicator and foundation of every sustainability strategy. GHG Protocol, Scopes 1-2-3, and opportunities for Algeria.",
+      fr: "Le CO2 comme indicateur universel et base de toute stratégie de durabilité. GHG Protocol, Scopes 1-2-3 et opportunités pour l'Algérie.",
+      ar: "ثاني أكسيد الكربون كمؤشر عالمي وأساس لكل استراتيجية استدامة.",
+    },
+  },
+  {
+    slug: "2024-annee-plus-chaude",
+    category: "blog",
+    date: "2025-06-17",
+    image: "/images/blog/2024-chaleur.jpg",
+    title: {
+      en: "2024: The Hottest Year on Record",
+      fr: "2024 : L'année la plus chaude jamais enregistrée",
+      ar: "2024: أكثر الأعوام حرارة على الإطلاق",
+    },
+    excerpt: {
+      en: "2024 marked the hottest year at +1.48°C. The impacts on Algeria include heat waves, water stress, and desertification.",
+      fr: "2024 a marqué l'année la plus chaude à +1,48°C. Les impacts sur l'Algérie incluent les vagues de chaleur, le stress hydrique et la désertification.",
+      ar: "سجل عام 2024 أعلى درجة حرارة بزيادة 1.48 درجة مئوية. تشمل التأثيرات على الجزائر موجات الحر والإجهاد المائي والتصحر.",
+    },
+  },
+  {
+    slug: "scope-3-repenser-economie",
+    category: "blog",
+    date: "2025-06-17",
+    image: "/images/blog/scope3.jpg",
+    title: {
+      en: "Scope 3: Rethinking the Company's Economy",
+      fr: "Scope 3 : Repenser l'économie de l'entreprise",
+      ar: "النطاق 3: إعادة التفكير في اقتصاد الشركة",
+    },
+    excerpt: {
+      en: "Scope 3 as a structural transformation. Indirect emissions, value chains, relocalisation, circular business models, and CSRD/ISSB requirements.",
+      fr: "Le Scope 3 comme transformation structurelle. Émissions indirectes, chaînes de valeur, relocalisation, modèles d'affaires circulaires et exigences CSRD/ISSB.",
+      ar: "النطاق 3 كتحول هيكلي. الانبعاثات غير المباشرة وسلاسل القيمة ونماذج الأعمال الدائرية.",
+    },
+  },
+  {
+    slug: "prevention-catastrophes-algerie",
+    category: "blog",
+    date: "2025-06-17",
+    image: "/images/blog/prevention.jpg",
+    title: {
+      en: "Disaster Prevention in Algeria",
+      fr: "Prévention des catastrophes en Algérie",
+      ar: "الوقاية من الكوارث في الجزائر",
+    },
+    excerpt: {
+      en: "New regulatory framework (Executive Decree 25-132). PGPRC, risk types, strategic functions, climate adaptation, TCFD/CSRD alignment.",
+      fr: "Nouveau cadre réglementaire (Décret exécutif n° 25-132). PGPRC, types de risques, fonctions stratégiques, adaptation climatique, alignement TCFD/CSRD.",
+      ar: "إطار تنظيمي جديد (المرسوم التنفيذي 25-132). أنواع المخاطر والوظائف الاستراتيجية والتكيف المناخي.",
+    },
+  },
+];
