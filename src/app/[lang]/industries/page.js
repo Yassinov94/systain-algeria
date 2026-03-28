@@ -17,7 +17,7 @@ export default async function IndustriesPage({ params }) {
       {/* Hero */}
       <section className="relative py-24 bg-dark-slate text-white">
         <div className="absolute inset-0 opacity-10">
-          <Image src="/images/backgrounds/meeting.jpg" alt="" fill className="object-cover" />
+          <Image src="/images/landscapes/landscape-3.jpg" alt="Algeria" fill className="object-cover" />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">{d.title}</h1>

@@ -8,8 +8,8 @@ export default function TransitionSection({ dict }) {
     <section className="relative py-20 bg-dark-slate text-white overflow-hidden">
       <div className="absolute inset-0 opacity-10">
         <Image
-          src="/images/backgrounds/bg-2.jpg"
-          alt=""
+          src="/images/landscapes/algeria-aerial.jpg"
+          alt="Algeria landscape"
           fill
           className="object-cover"
         />

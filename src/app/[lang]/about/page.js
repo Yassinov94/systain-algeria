@@ -20,8 +20,8 @@ export default async function AboutPage({ params }) {
     <>
       {/* Hero */}
       <section className="relative py-24 bg-dark-slate text-white">
-        <div className="absolute inset-0 opacity-10">
-          <Image src="/images/backgrounds/office.jpg" alt="" fill className="object-cover" />
+        <div className="absolute inset-0 opacity-20">
+          <Image src="/images/landscapes/landscape-1.jpg" alt="Algeria" fill className="object-cover" />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">{d.title}</h1>
@@ -95,6 +95,33 @@ export default async function AboutPage({ params }) {
                 </div>
                 <h3 className="font-semibold text-heading mb-2">{value.title}</h3>
                 <p className="text-sm text-foreground/70">{value.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Algeria Gallery */}
+      <section className="py-16 bg-dark-slate">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+            {[
+              "/images/landscapes/landscape-2.jpg",
+              "/images/landscapes/landscape-3.jpg",
+              "/images/landscapes/landscape-4.jpg",
+              "/images/landscapes/landscape-5.jpg",
+              "/images/landscapes/landscape-6.jpg",
+              "/images/landscapes/landscape-7.jpg",
+              "/images/landscapes/algeria-aerial.jpg",
+              "/images/backgrounds/office.jpg",
+            ].map((src, i) => (
+              <div key={i} className="relative h-44 rounded-lg overflow-hidden">
+                <Image
+                  src={src}
+                  alt="Systain Algeria"
+                  fill
+                  className="object-cover hover:scale-105 transition-transform duration-500"
+                />
               </div>
             ))}
           </div>
