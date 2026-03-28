@@ -3,7 +3,9 @@ import HeroSection from "@/components/home/HeroSection";
 import CarbonCTA from "@/components/home/CarbonCTA";
 import IntroSection from "@/components/home/IntroSection";
 import WhatWeDo from "@/components/home/WhatWeDo";
+import WhySystain from "@/components/home/WhySystain";
 import TransitionSection from "@/components/home/TransitionSection";
+import IndustriesTeaser from "@/components/home/IndustriesTeaser";
 import ServicesGrid from "@/components/home/ServicesGrid";
 import MethodologySection from "@/components/home/MethodologySection";
 import PartnersSection from "@/components/home/PartnersSection";
@@ -21,7 +23,9 @@ export default async function HomePage({ params }) {
       <CarbonCTA dict={dict} lang={lang} />
       <IntroSection dict={dict} lang={lang} />
       <WhatWeDo dict={dict} lang={lang} />
+      <WhySystain dict={dict} />
       <TransitionSection dict={dict} />
+      <IndustriesTeaser dict={dict} lang={lang} />
       <ServicesGrid dict={dict} />
       <MethodologySection dict={dict} />
       <PartnersSection dict={dict} />

@@ -7,6 +7,8 @@
     "home": "Accueil",
     "about": "À propos",
     "services": "Services",
+    "industries": "Industries",
+    "frameworks": "Cadres & Normes",
     "blog": "Blog",
     "contact": "Contact",
     "login": "Connexion",
@@ -16,10 +18,10 @@
     "language": "Langue"
   },
   "hero": {
-    "title": "Systain Advisory",
-    "subtitle": "Climat, Carbone, ESG, Économie Circulaire, Chaînes d'Approvisionnement Durables",
-    "cta_contact": "Contact",
-    "cta_footprint": "Calculez votre empreinte"
+    "title": "Conseil stratégique Climat & Carbone en Europe et MENA",
+    "subtitle": "Nous accompagnons les entreprises dans la gestion des réglementations ESG, des exigences CBAM et des émissions Scope 1–3 — en transformant la complexité en stratégies concrètes et à fort impact.",
+    "cta_contact": "Demander une consultation",
+    "cta_footprint": "Discuter de votre exposition CBAM"
   },
   "carbon_cta": {
     "title": "Évaluez votre empreinte carbone",
@@ -35,22 +37,22 @@
   "what_we_do": {
     "title": "Ce que nous faisons",
     "subtitle": "Chez Systain Advisory, nous aidons les organisations à comprendre, mesurer et améliorer leur performance environnementale et de durabilité.",
-    "pillars_intro": "Notre travail se concentre sur cinq piliers stratégiques.",
+    "pillars_intro": "Notre travail se concentre sur trois piliers stratégiques.",
     "carbon": {
-      "title": "Performance Carbone",
-      "description": "Nous accompagnons les entreprises dans la mesure et la gestion des émissions de gaz à effet de serre dans l'ensemble de leurs opérations et chaînes de valeur.",
+      "title": "Climat & Carbone",
+      "description": "Nous développons des bilans carbone robustes couvrant les émissions Scope 1, 2 et 3 et les traduisons en stratégies de décarbonation alignées sur les cadres de référence tels que le GHG Protocol et les SBTi.",
       "services": ["Bilan Carbone d'Entreprise (Scope 1, 2 et 3)", "Empreinte Carbone Produit", "Systèmes de comptabilité carbone", "Feuilles de route de réduction des émissions"],
       "standards_intro": "Nos travaux suivent les normes internationalement reconnues :",
       "standards": ["GHG Protocol", "ISO 14064"]
     },
     "esg": {
-      "title": "Stratégie ESG & Reporting de Durabilité",
-      "description": "La performance Environnementale, Sociale et de Gouvernance (ESG) devient un élément central de la stratégie d'entreprise et des décisions d'investissement. Systain Advisory accompagne les organisations dans le développement et la mise en œuvre de stratégies ESG alignées sur les cadres de reporting internationaux.",
+      "title": "ESG & Réglementation",
+      "description": "Nous accompagnons les entreprises dans la structuration de leur stratégie ESG et la conformité aux réglementations européennes en évolution, y compris la CSRD, la Taxonomie UE et les cadres de divulgation.",
       "services": ["Développement de stratégie ESG", "Analyses de matérialité", "Cadres de reporting de durabilité", "Processus d'engagement des parties prenantes", "Intégration de l'ESG dans la gouvernance d'entreprise"]
     },
     "climate": {
-      "title": "Stratégie Climat & Décarbonation",
-      "description": "Nous accompagnons les organisations dans la définition de stratégies climatiques à long terme alignées sur les objectifs climatiques mondiaux.",
+      "title": "UE–Afrique & Accès aux Marchés",
+      "description": "Nous conseillons les entreprises opérant en Europe, en Afrique du Nord et au Moyen-Orient sur le CBAM, la transformation des chaînes d'approvisionnement et les dynamiques commerciales liées au climat.",
       "services": ["Alignement Science Based Targets initiative (SBTi)", "Stratégies de décarbonation d'entreprise", "Plans de transition climatique", "Trajectoires net-zéro"],
       "outro": "Ces stratégies aident les entreprises à renforcer leur compétitivité à long terme dans une économie bas-carbone."
     },
@@ -70,11 +72,25 @@
       "services": ["Analyse du Cycle de Vie (ISO 14040/44)", "Analyse des flux de matériaux", "Chaînes de valeur circulaires", "Stratégies d'efficacité des ressources"]
     }
   },
+  "why_systain": {
+    "title": "Pourquoi Systain",
+    "subtitle": "Nous opérons à l'intersection de la réglementation, de l'industrie et des marchés internationaux.",
+    "points": [
+      "Expertise approfondie en Allemagne, dans l'UE et au MENA",
+      "Forte orientation sur les réalités industrielles et la mise en œuvre",
+      "Conseil sur mesure — pas de plateformes standardisées",
+      "Partenaire de confiance pour des transformations complexes et transfrontalières"
+    ]
+  },
   "transition": {
-    "title": "Transition UE-Afrique",
-    "subtitle": "Transformation Climatique et Économique",
-    "description": "La transition vers une économie mondiale bas-carbone remodèle les relations commerciales et la compétitivité industrielle. La réglementation climatique européenne affecte de plus en plus les entreprises opérant dans les régions voisines. Systain Advisory accompagne les organisations dans ce paysage en évolution en faisant le pont entre la réglementation européenne de durabilité et la transformation économique africaine.",
+    "title": "Positionnement UE–Afrique",
+    "subtitle": "Faire le pont entre l'Europe et le MENA dans une économie en décarbonation",
+    "description": "Nous aidons les entreprises à anticiper et à répondre à l'impact des réglementations climatiques européennes sur le commerce international. Notre travail garantit que la conformité devienne un avantage stratégique — et non un obstacle.",
     "areas": ["Mise en œuvre du CBAM et préparation à l'exportation", "Stratégies de décarbonation industrielle", "Intégration ESG dans les marchés émergents", "Chaînes d'approvisionnement durables entre l'Europe et l'Afrique", "Finance climatique et programmes de coopération internationale"]
+  },
+  "industries_teaser": {
+    "text": "De l'industrie manufacturière à la finance, nous fournissons des stratégies climat et ESG sur mesure dans les secteurs clés.",
+    "button": "Explorer les Industries"
   },
   "services": {
     "title": "Nos Services",
@@ -163,10 +179,50 @@
     "note": "Des études de cas détaillées peuvent être fournies sur demande."
   },
   "cta": {
-    "title": "Un premier échange pour identifier vos besoins ?",
-    "subtitle": "Un projet en cours de structuration ? Notre équipe est à votre disposition.",
+    "title": "Transformons la pression réglementaire en avantage stratégique.",
+    "subtitle": "Que vous soyez confronté à la CSRD, la Taxonomie UE, les émissions Scope 3 ou les exigences CBAM, nous transformons la complexité en stratégies claires et actionnables.",
     "phone": "+213(0) 660 685 372",
-    "button": "Prendre rendez-vous"
+    "button": "Parlez à nos experts"
+  },
+  "industries": {
+    "title": "Industries que nous servons",
+    "meta_title": "Industries – Conseil ESG, Carbone et CBAM en Allemagne, UE et MENA",
+    "intro": "Transformez la pression réglementaire en avantage stratégique en Allemagne, dans l'Union européenne et au MENA.",
+    "intro_p2": "Les entreprises font face à une pression croissante des réglementations ESG, des mécanismes de tarification du carbone et des exigences complexes des chaînes d'approvisionnement. La durabilité n'est plus optionnelle — c'est un impératif commercial.",
+    "intro_p3": "Nous accompagnons les organisations dans la mesure, la gestion et la réduction des émissions à travers la comptabilité carbone, la stratégie ESG et l'alignement réglementaire avec les cadres de référence tels que le GHG Protocol, SBTi, la Taxonomie UE et le CBAM.",
+    "sectors": [
+      {"title": "Agriculture", "intro": "L'agriculture est à la fois très exposée aux risques climatiques et un moteur clé des solutions fondées sur la nature.", "description": "Nous accompagnons les entreprises agricoles dans le développement de bilans carbone, de stratégies d'agriculture régénérative et d'accès aux marchés du carbone.", "frameworks": "Nos travaux sont alignés sur le GHG Protocol, les directives SBTi FLAG et les cadres émergents tels que la TNFD.", "use_cases": ["Agriculture carbone", "Émissions Scope 3 agricoles", "Systèmes de production résilients au climat"]},
+      {"title": "Industrie & Manufacturier", "intro": "Les entreprises manufacturières font face à une pression croissante due aux coûts énergétiques, aux réglementations ESG et aux mécanismes comme le CBAM.", "description": "Nous fournissons une comptabilité carbone de bout en bout couvrant les émissions Scope 1, 2 et 3, combinée à des stratégies de décarbonation alignées SBTi et ISO.", "frameworks": "Notre approche garantit l'alignement avec la Taxonomie UE et la préparation complète au CBAM.", "use_cases": ["Préparation CBAM", "Transparence Scope 3", "Décarbonation industrielle"]},
+      {"title": "Industrie Alimentaire", "intro": "Le secteur alimentaire fait face à une pression croissante pour réduire l'impact environnemental sur l'ensemble de la chaîne de valeur.", "description": "Nous réalisons des analyses de cycle de vie et des bilans carbone pour une visibilité complète des émissions Scope 3, de l'approvisionnement à la distribution.", "use_cases": ["Approvisionnement durable", "Empreinte produit", "Conformité ESG dans les chaînes alimentaires"]},
+      {"title": "Services Financiers", "intro": "Les institutions financières doivent mesurer et divulguer l'impact climatique de leurs portefeuilles tout en s'alignant sur la Taxonomie UE, la CSRD et le SFDR.", "description": "Nous accompagnons les banques, investisseurs et FinTechs dans le calcul des émissions financées selon le GHG Protocol et les méthodologies PCAF.", "use_cases": ["Émissions financées", "Décarbonation de portefeuille", "Intégration des risques ESG"]},
+      {"title": "Transport & Logistique", "intro": "Les entreprises logistiques doivent réduire les émissions à travers des chaînes d'approvisionnement internationales complexes.", "description": "Nous fournissons un suivi des émissions aligné sur le GHG Protocol et les normes ISO.", "use_cases": ["Suivi des émissions transport", "Optimisation logistique", "Réduction Scope 3"]},
+      {"title": "Construction & Immobilier", "intro": "Le secteur immobilier doit traiter le carbone incorporé et opérationnel tout en répondant aux attentes réglementaires et des investisseurs.", "description": "Nous réalisons des évaluations carbone sur le cycle de vie complet et accompagnons l'intégration ESG dans les portefeuilles.", "use_cases": ["Empreinte carbone des bâtiments", "Stratégie ESG immobilière", "Conformité réglementaire"]},
+      {"title": "Énergie & Services Publics", "intro": "Les entreprises énergétiques sont au cœur de la transition vers des systèmes bas-carbone.", "description": "Nous accompagnons les utilities avec la comptabilité carbone, les stratégies de transition et l'analyse de scénarios alignés SBTi, EU ETS et CBAM.", "use_cases": ["Stratégie de transition énergétique", "Réduction des émissions", "Conformité réglementaire"]},
+      {"title": "Commerce & Biens de Consommation", "intro": "Les entreprises de commerce doivent traiter les émissions à travers les chaînes d'approvisionnement mondiales.", "description": "Nous fournissons l'analyse Scope 3, les stratégies d'engagement fournisseurs et le développement de produits durables.", "use_cases": ["Émissions chaîne d'approvisionnement", "Approvisionnement durable", "Stratégie ESG"]},
+      {"title": "PME & Start-ups", "intro": "Les petites entreprises doivent de plus en plus démontrer leur performance ESG aux clients, investisseurs et partenaires.", "description": "Nous offrons des solutions de comptabilité carbone et de stratégie ESG adaptées aux entreprises en croissance en Europe et au MENA.", "use_cases": ["Préparation ESG", "Bilan carbone", "Exigences investisseurs"]}
+    ],
+    "typical_use_cases": "Cas d'usage typiques :",
+    "cta_title": "Vous ne savez pas par où commencer ? Nous vous guidons.",
+    "cta_text": "Que vous soyez confronté à la CSRD, la Taxonomie UE, les émissions Scope 3 ou les exigences CBAM, nous transformons la complexité en stratégies claires et actionnables.",
+    "cta_button": "Parlez à nos experts"
+  },
+  "frameworks": {
+    "title": "Cadres & Normes",
+    "meta_title": "Aligné sur les cadres ESG et climatiques de référence",
+    "hero_subtitle": "Nous intégrons les normes ESG et climatiques les plus pertinentes dans des stratégies actionnables — garantissant conformité, crédibilité et impact durable.",
+    "intro_title": "Naviguer dans les cadres ESG et climatiques est devenu de plus en plus complexe.",
+    "intro_p1": "Les entreprises doivent s'aligner sur de multiples normes, allant des méthodologies de comptabilité carbone aux divulgations réglementaires et aux notations de durabilité. Trop souvent, ces cadres sont abordés comme des exercices de reporting — créant une charge administrative sans apporter de réelle valeur stratégique.",
+    "intro_p2": "Chez Systain, nous adoptons une approche différente.",
+    "intro_p3": "Nous intégrons les cadres ESG et climatiques de référence dans la stratégie d'entreprise, garantissant que les efforts de conformité se traduisent en impact mesurable, performance améliorée et compétitivité à long terme.",
+    "framework_list": ["EcoVadis", "CDP", "Science Based Targets initiative", "GHG Protocol", "Taxonomie UE", "Task Force on Climate-related Financial Disclosures", "Taskforce on Nature-related Financial Disclosures", "PCAF"],
+    "approach_title": "Notre Approche",
+    "approach_intro": "Nous n'abordons pas ces cadres comme des exigences isolées. Nous les traduisons en un cadre stratégique cohérent adapté à votre modèle d'affaires, votre industrie et votre exposition géographique.",
+    "approach_includes": "Cela inclut :",
+    "approach_items": ["Aligner la comptabilité carbone avec la prise de décision opérationnelle", "Intégrer les métriques ESG dans la stratégie d'entreprise", "Assurer la cohérence entre les exigences réglementaires et les processus internes", "Transformer les notations ESG en leviers de performance"],
+    "ratings_title": "Notations ESG & Performance",
+    "ratings_text": "Améliorer les notations ESG telles qu'EcoVadis ou CDP n'est pas une fin en soi. Nous nous concentrons sur le renforcement des données, processus et stratégies sous-jacents — garantissant que les améliorations reflètent une performance réelle et une transformation crédible.",
+    "cta_title": "Transformez la complexité ESG en avantage stratégique.",
+    "cta_button": "Parlez à nos experts"
   },
   "about": {
     "title": "À propos de Systain Advisory",

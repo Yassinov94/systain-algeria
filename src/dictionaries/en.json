@@ -7,6 +7,8 @@
     "home": "Home",
     "about": "About Us",
     "services": "Services",
+    "industries": "Industries",
+    "frameworks": "Frameworks",
     "blog": "Blog",
     "contact": "Contact",
     "login": "Login",
@@ -16,10 +18,10 @@
     "language": "Language"
   },
   "hero": {
-    "title": "Systain Advisory",
-    "subtitle": "Climate, Carbon, ESG, Circular Economy, Sustainable Supply Chains",
-    "cta_contact": "Contact",
-    "cta_footprint": "Calculate your footprint"
+    "title": "Strategic Climate & Carbon Advisory Across Europe and MENA",
+    "subtitle": "We support companies in navigating ESG regulations, CBAM requirements and Scope 1–3 emissions — translating complexity into actionable, high-impact strategies.",
+    "cta_contact": "Request a Consultation",
+    "cta_footprint": "Discuss Your CBAM Exposure"
   },
   "carbon_cta": {
     "title": "Evaluate your carbon footprint",
@@ -33,25 +35,25 @@
     "cta": "Schedule an appointment"
   },
   "what_we_do": {
-    "title": "What We Do?",
+    "title": "What We Do",
     "subtitle": "At Systain Advisory we help organisations understand, measure and improve their environmental and sustainability performance.",
-    "pillars_intro": "Our work focuses on five strategic pillars.",
+    "pillars_intro": "Our work focuses on three strategic pillars.",
     "carbon": {
-      "title": "Carbon Performance",
-      "description": "We support companies in measuring and managing greenhouse gas emissions across operations and value chains.",
+      "title": "Climate & Carbon",
+      "description": "We develop robust carbon footprints across Scope 1, 2 and 3 emissions and translate them into actionable decarbonisation strategies aligned with leading frameworks such as the GHG Protocol and SBTi.",
       "services": ["Corporate Carbon Footprint (Scope 1, 2 and 3)", "Product Carbon Footprint", "Carbon accounting systems", "Emission reduction roadmaps"],
       "standards_intro": "Our work follows internationally recognised standards including:",
       "standards": ["GHG Protocol", "ISO 14064"]
     },
     "esg": {
-      "title": "ESG Strategy & Sustainability Reporting",
-      "description": "Environmental, Social and Governance (ESG) performance is becoming a central element of corporate strategy and investor decision-making. Systain Advisory supports organisations in developing and implementing ESG strategies aligned with international reporting frameworks.",
+      "title": "ESG & Regulation",
+      "description": "We support companies in structuring their ESG strategy and ensuring compliance with evolving European regulations including CSRD, EU Taxonomy and disclosure frameworks.",
       "services": ["ESG strategy development", "Materiality assessments", "Sustainability reporting frameworks", "Stakeholder engagement processes", "Integration of ESG into corporate governance"]
     },
     "climate": {
-      "title": "Climate Strategy & Decarbonisation",
-      "description": "We support organisations in defining long-term climate strategies aligned with global climate targets.",
-      "services": ["Science Based Targets initiative (SBTi) alignment", "Corporate decarbonisation strategies", "Climate transition plans", "Net-zero pathways"],
+      "title": "EU–Africa & Market Access",
+      "description": "We advise companies operating across Europe, North Africa and the Middle East on CBAM, supply chain transformation and climate-related trade dynamics.",
+      "services": ["CBAM implementation and export readiness", "Supply chain transformation", "Climate-related trade dynamics", "Cross-border compliance strategies"],
       "outro": "These strategies support companies in strengthening long-term competitiveness in a low-carbon economy."
     },
     "regulation": {
@@ -70,11 +72,25 @@
       "services": ["Life Cycle Assessment (ISO 14040/44)", "Material flow analysis", "Circular value chains", "Resource efficiency strategies"]
     }
   },
+  "why_systain": {
+    "title": "Why Systain",
+    "subtitle": "We operate at the intersection of regulation, industry and international markets.",
+    "points": [
+      "Deep expertise across Germany, the EU and MENA",
+      "Strong focus on industrial realities and implementation",
+      "Tailored advisory — no standardised platforms",
+      "Trusted partner for complex, cross-border transformation"
+    ]
+  },
   "transition": {
-    "title": "EU-Africa Transition",
-    "subtitle": "Climate and Economic Transformation",
-    "description": "The transition towards a low-carbon global economy is reshaping trade relations and industrial competitiveness. European climate regulation increasingly affects companies operating in neighbouring regions. Systain Advisory supports organisations navigating this evolving landscape by bridging European sustainability regulation and African economic transformation.",
+    "title": "EU–Africa Positioning",
+    "subtitle": "Bridging Europe and MENA in a decarbonising economy",
+    "description": "We help companies anticipate and respond to the impact of European climate regulations on international trade. Our work ensures compliance becomes a strategic advantage — not a barrier.",
     "areas": ["CBAM implementation and export readiness", "Industrial decarbonisation strategies", "ESG integration in emerging markets", "Sustainable supply chains between Europe and Africa", "Climate finance and international cooperation programmes"]
+  },
+  "industries_teaser": {
+    "text": "From manufacturing to finance, we provide tailored climate and ESG strategies across key sectors.",
+    "button": "Explore Industries"
   },
   "services": {
     "title": "Our Services",
@@ -163,10 +179,102 @@
     "note": "Detailed case studies may be provided upon request."
   },
   "cta": {
-    "title": "An initial discussion to identify your needs?",
-    "subtitle": "A project currently being structured? Our team is at your disposal.",
+    "title": "Let's turn regulatory pressure into strategic advantage.",
+    "subtitle": "Whether you are dealing with CSRD, EU Taxonomy, Scope 3 emissions or CBAM requirements, we translate complexity into clear, actionable strategies.",
     "phone": "+213(0) 660 685 372",
-    "button": "Schedule an appointment"
+    "button": "Speak to our experts"
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "meta_title": "Industries – ESG, Carbon and CBAM Advisory Across Germany, EU and MENA",
+    "intro": "Turn regulatory pressure into strategic advantage across Germany, the European Union and MENA.",
+    "intro_p2": "Companies today face increasing pressure from ESG regulations, carbon pricing mechanisms and complex supply chain requirements. Sustainability is no longer optional — it is a core business imperative.",
+    "intro_p3": "We support organizations in measuring, managing and reducing emissions through carbon accounting, ESG strategy and regulatory alignment with leading frameworks such as the GHG Protocol, SBTi, EU Taxonomy and CBAM.",
+    "sectors": [
+      {
+        "title": "Agriculture & Farming",
+        "intro": "Agriculture is both highly exposed to climate risks and a key driver of nature-based solutions.",
+        "description": "We support agribusinesses in developing carbon footprint assessments, regenerative agriculture strategies and access to carbon markets, enabling emissions reduction while unlocking new revenue streams.",
+        "frameworks": "Our work is aligned with GHG Protocol standards, SBTi FLAG guidance and emerging frameworks such as TNFD, with a strong focus on climate resilience across Europe and MENA.",
+        "use_cases": ["Carbon farming", "Scope 3 agricultural emissions", "Climate-resilient production systems"]
+      },
+      {
+        "title": "Industry & Manufacturing",
+        "intro": "Manufacturing companies face increasing pressure from rising energy costs, stricter ESG regulations and mechanisms such as CBAM that directly impact international competitiveness.",
+        "description": "We provide end-to-end carbon accounting across Scope 1, 2 and 3 emissions, combined with science-based decarbonisation strategies aligned with SBTi and ISO standards.",
+        "frameworks": "Our approach ensures alignment with EU Taxonomy and full readiness for CBAM requirements.",
+        "use_cases": ["CBAM readiness", "Scope 3 transparency", "Industrial decarbonisation"]
+      },
+      {
+        "title": "Food Industry",
+        "intro": "The food sector faces growing pressure from regulators, retailers and consumers to reduce environmental impact across the entire value chain.",
+        "description": "We conduct life cycle assessments and carbon footprint analyses to provide full visibility into Scope 3 emissions, from sourcing to distribution. We support companies in redesigning products, optimising sourcing and improving sustainability performance while maintaining profitability.",
+        "use_cases": ["Sustainable sourcing", "Product footprinting", "ESG compliance in food supply chains"]
+      },
+      {
+        "title": "Financial Services",
+        "intro": "Financial institutions must measure and disclose the climate impact of their portfolios while aligning with EU Taxonomy, CSRD and SFDR.",
+        "description": "We support banks, investors and FinTechs in calculating financed emissions using GHG Protocol and PCAF methodologies, identifying exposure risks and developing portfolio decarbonisation strategies.",
+        "use_cases": ["Financed emissions", "Portfolio decarbonisation", "ESG risk integration"]
+      },
+      {
+        "title": "Transport & Logistics",
+        "intro": "Logistics companies must reduce emissions across complex international supply chains while maintaining efficiency and cost competitiveness.",
+        "description": "We provide emissions tracking aligned with GHG Protocol and ISO standards, enabling targeted reduction strategies and operational optimisation.",
+        "use_cases": ["Transport emissions tracking", "Logistics optimisation", "Scope 3 reduction"]
+      },
+      {
+        "title": "Construction & Real Estate",
+        "intro": "The real estate sector must address both embodied and operational carbon while meeting regulatory and investor expectations.",
+        "description": "We conduct whole-life carbon assessments and support ESG integration across portfolios, aligned with EU Taxonomy and decarbonisation pathways.",
+        "use_cases": ["Building carbon footprint", "ESG real estate strategy", "Regulatory compliance"]
+      },
+      {
+        "title": "Energy & Utilities",
+        "intro": "Energy companies are at the centre of the transition toward low-carbon systems.",
+        "description": "We support utilities with carbon accounting, transition strategies and scenario analysis aligned with SBTi, EU ETS and CBAM requirements.",
+        "use_cases": ["Energy transition strategy", "Emissions reduction", "Regulatory compliance"]
+      },
+      {
+        "title": "Retail & Consumer Goods",
+        "intro": "Retail companies must address emissions across global supply chains while meeting rising consumer and regulatory expectations.",
+        "description": "We provide Scope 3 analysis, supplier engagement strategies and sustainable product development.",
+        "use_cases": ["Supply chain emissions", "Sustainable sourcing", "ESG strategy"]
+      },
+      {
+        "title": "SMEs & Start-ups",
+        "intro": "Smaller companies are increasingly required to demonstrate ESG performance to clients, investors and partners.",
+        "description": "We offer scalable carbon accounting and ESG strategy solutions tailored to growing businesses across Europe and MENA.",
+        "use_cases": ["ESG readiness", "Carbon footprint", "Investor requirements"]
+      }
+    ],
+    "typical_use_cases": "Typical use cases:",
+    "cta_title": "Not sure where to start? We guide you.",
+    "cta_text": "Whether you are dealing with CSRD, EU Taxonomy, Scope 3 emissions or CBAM requirements, we translate complexity into clear, actionable strategies.",
+    "cta_button": "Speak to our experts"
+  },
+  "frameworks": {
+    "title": "Frameworks & Standards",
+    "meta_title": "Aligned with Leading ESG and Climate Frameworks",
+    "hero_subtitle": "We integrate the world's most relevant ESG and climate standards into actionable strategies — ensuring compliance, credibility and long-term impact.",
+    "intro_title": "Navigating ESG and climate frameworks has become increasingly complex.",
+    "intro_p1": "Companies are expected to align with multiple standards, ranging from carbon accounting methodologies to regulatory disclosures and sustainability ratings. Too often, these frameworks are approached as reporting exercises — creating administrative burden without delivering real strategic value.",
+    "intro_p2": "At Systain, we take a different approach.",
+    "intro_p3": "We integrate leading ESG and climate frameworks into core business strategy, ensuring that compliance efforts translate into measurable impact, improved performance and long-term competitiveness.",
+    "framework_list": ["EcoVadis", "CDP", "Science Based Targets initiative", "GHG Protocol", "EU Taxonomy", "Task Force on Climate-related Financial Disclosures", "Taskforce on Nature-related Financial Disclosures", "PCAF"],
+    "approach_title": "Our Approach",
+    "approach_intro": "We do not approach these frameworks as isolated requirements. Instead, we translate them into a coherent strategic framework tailored to your business model, industry and geographic exposure.",
+    "approach_includes": "This includes:",
+    "approach_items": [
+      "Aligning carbon accounting with operational decision-making",
+      "Integrating ESG metrics into corporate strategy",
+      "Ensuring consistency between regulatory requirements and internal processes",
+      "Transforming ESG ratings into drivers of performance"
+    ],
+    "ratings_title": "ESG Ratings & Performance",
+    "ratings_text": "Improving ESG ratings such as EcoVadis or CDP is not an end in itself. We focus on strengthening the underlying data, processes and strategy — ensuring that rating improvements reflect real performance and credible transformation.",
+    "cta_title": "Turn ESG complexity into strategic advantage.",
+    "cta_button": "Speak to our experts"
   },
   "about": {
     "title": "About Systain Advisory",

@@ -18,10 +18,10 @@ export default function HeroSection({ dict, lang }) {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 w-full">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4">
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight">
               {dict.hero.title}
             </h1>
-            <p className="text-lg sm:text-xl text-primary-warm font-light mb-8 max-w-lg">
+            <p className="text-lg text-white/70 font-light mb-8 max-w-xl leading-relaxed">
               {dict.hero.subtitle}
             </p>
             <div className="flex flex-wrap gap-4">
@@ -32,7 +32,7 @@ export default function HeroSection({ dict, lang }) {
                 {dict.hero.cta_contact}
               </Link>
               <Link
-                href={`/${lang}/auth/login`}
+                href={`/${lang}/contact`}
                 className="px-8 py-3.5 border-2 border-primary text-primary font-medium rounded-full hover:bg-primary hover:text-white transition-colors"
               >
                 {dict.hero.cta_footprint}

@@ -16,6 +16,8 @@ export default function Header({ dict, lang }) {
     { href: `/${lang}`, label: dict.nav.home },
     { href: `/${lang}/about`, label: dict.nav.about },
     { href: `/${lang}/services`, label: dict.nav.services },
+    { href: `/${lang}/industries`, label: dict.nav.industries },
+    { href: `/${lang}/services/frameworks`, label: dict.nav.frameworks },
     { href: `/${lang}/blog`, label: dict.nav.blog },
     { href: `/${lang}/contact`, label: dict.nav.contact },
   ];
