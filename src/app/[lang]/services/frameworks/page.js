@@ -3,6 +3,17 @@ import Link from "next/link";
 import { getDictionary } from "../../dictionaries";
 import { CheckCircle } from "lucide-react";
 
+const frameworkLogos = [
+  "/images/frameworks/ecovadis.png",
+  "/images/frameworks/cdp.png",
+  "/images/frameworks/sbti.png",
+  "/images/frameworks/ghg.jpeg",
+  "/images/frameworks/eu-taxonomy.png",
+  "/images/frameworks/tcfd.png",
+  "/images/frameworks/tnfd.png",
+  "/images/frameworks/pcaf.png",
+];
+
 export default async function FrameworksPage({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
@@ -37,14 +48,18 @@ export default async function FrameworksPage({ params }) {
             {d.framework_list.map((fw, i) => (
               <div
                 key={i}
-                className="bg-white rounded-xl border border-gray-100 p-6 flex flex-col items-center justify-center text-center hover:border-primary/30 hover:shadow-sm transition-all min-h-[120px]"
+                className="bg-white rounded-xl border border-gray-100 p-6 flex flex-col items-center justify-center text-center hover:border-primary/30 hover:shadow-sm transition-all min-h-[140px]"
               >
-                <div className="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center mb-3">
-                  <span className="text-primary font-bold text-sm">
-                    {fw.split(" ")[0].substring(0, 3).toUpperCase()}
-                  </span>
+                <div className="w-20 h-14 relative mb-3 flex items-center justify-center">
+                  <Image
+                    src={frameworkLogos[i]}
+                    alt={fw}
+                    width={80}
+                    height={56}
+                    className="object-contain max-h-14"
+                  />
                 </div>
-                <p className="text-sm font-medium text-heading leading-tight">{fw}</p>
+                <p className="text-xs font-medium text-heading leading-tight">{fw}</p>
               </div>
             ))}
           </div>
