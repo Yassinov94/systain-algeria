@@ -6,11 +6,14 @@ import DashboardSidebar from "@/components/dashboard/DashboardSidebar";
 export default async function DashboardLayout({ children, params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const supabase = await createClient();
-
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const supabase = await createClient();
+    const { data } = await supabase.auth.getUser();
+    user = data?.user;
+  } catch {
+    // Supabase not configured
+  }
 
   if (!user) {
     redirect(`/${lang}/auth/login`);

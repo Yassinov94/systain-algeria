@@ -5,8 +5,14 @@ import { User, Building2, Mail, Phone } from "lucide-react";
 export default async function ProfilePage({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const supabase = await createClient();
-  const { data: { user } } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const supabase = await createClient();
+    const { data } = await supabase.auth.getUser();
+    user = data?.user;
+  } catch {
+    // Supabase not configured
+  }
   const meta = user?.user_metadata || {};
   const d = dict.dashboard;
 

@@ -10,11 +10,14 @@ const reportPrompts = {
 };
 
 export async function POST(request) {
-  const supabase = await createClient();
-
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  let supabase, user;
+  try {
+    supabase = await createClient();
+    const { data } = await supabase.auth.getUser();
+    user = data?.user;
+  } catch {
+    return NextResponse.json({ error: "Supabase not configured" }, { status: 500 });
+  }
 
   if (!user) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });

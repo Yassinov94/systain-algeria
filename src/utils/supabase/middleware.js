@@ -4,6 +4,15 @@ import { NextResponse } from "next/server";
 export async function updateSession(request) {
   let supabaseResponse = NextResponse.next({ request });
 
+  // Skip Supabase auth if credentials are not configured
+  if (
+    !process.env.NEXT_PUBLIC_SUPABASE_URL ||
+    !process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ||
+    process.env.NEXT_PUBLIC_SUPABASE_URL === "your-supabase-url"
+  ) {
+    return supabaseResponse;
+  }
+
   const supabase = createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,

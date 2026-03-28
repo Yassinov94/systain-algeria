@@ -6,8 +6,14 @@ import { FileText, Plus, BarChart3, Leaf } from "lucide-react";
 export default async function DashboardPage({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const supabase = await createClient();
-  const { data: { user } } = await supabase.auth.getUser();
+  let user = null;
+  try {
+    const supabase = await createClient();
+    const { data } = await supabase.auth.getUser();
+    user = data?.user;
+  } catch {
+    // Supabase not configured
+  }
   const d = dict.dashboard;
 
   const stats = [
