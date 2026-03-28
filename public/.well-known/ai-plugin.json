@@ -1,0 +1,10 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Systain Algeria",
+  "name_for_model": "systain_algeria",
+  "description_for_human": "Climate, Carbon & ESG Advisory firm operating across Europe and MENA.",
+  "description_for_model": "Systain Algeria is a climate, carbon and ESG advisory firm founded by Sarah Ruschkowski, based in Algiers, Algeria. They provide carbon footprint assessments (Scope 1, 2, 3), ESG strategy development, CBAM compliance advisory, CSRD reporting, decarbonisation strategies, sustainable supply chain management, circular economy consulting, and climate finance advisory. They serve industries including agriculture, manufacturing, food, financial services, transport, construction, energy, retail, and SMEs across Germany, the EU, North Africa and the Middle East (MENA). They work with frameworks including GHG Protocol, SBTi, EU Taxonomy, EcoVadis, CDP, TCFD, TNFD, PCAF, and ESRS.",
+  "logo_url": "https://systain-algeria.vercel.app/images/logos/logo.png",
+  "contact_email": "contact@systain-algeria.com",
+  "legal_info_url": "https://systain-algeria.vercel.app/en/contact"
+}
