@@ -8,6 +8,7 @@ import TransitionSection from "@/components/home/TransitionSection";
 import IndustriesTeaser from "@/components/home/IndustriesTeaser";
 import ServicesGrid from "@/components/home/ServicesGrid";
 import MethodologySection from "@/components/home/MethodologySection";
+import AlgeriaGallery from "@/components/home/AlgeriaGallery";
 import PartnersSection from "@/components/home/PartnersSection";
 import ReferencesSection from "@/components/home/ReferencesSection";
 import BlogPreview from "@/components/home/BlogPreview";
@@ -28,6 +29,7 @@ export default async function HomePage({ params }) {
       <IndustriesTeaser dict={dict} lang={lang} />
       <ServicesGrid dict={dict} />
       <MethodologySection dict={dict} />
+      <AlgeriaGallery />
       <PartnersSection dict={dict} />
       <ReferencesSection dict={dict} />
       <BlogPreview dict={dict} lang={lang} />

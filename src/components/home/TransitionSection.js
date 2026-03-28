@@ -8,7 +8,7 @@ export default function TransitionSection({ dict }) {
     <section className="relative py-20 bg-dark-slate text-white overflow-hidden">
       <div className="absolute inset-0 opacity-10">
         <Image
-          src="/images/landscapes/algeria-aerial.jpg"
+          src="/images/landscapes/algeria-hero.webp"
           alt="Algeria landscape"
           fill
           className="object-cover"
